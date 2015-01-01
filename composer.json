@@ -1,8 +1,8 @@
 {
-    "name": "yohang/calendr",
+    "name": "ammonitenetworks/calendr",
     "description": "Object Oriented calendar management",
     "keywords": ["date", "calendar", "events"],
-    "homepage": "https://github.com/yohang/CalendR",
+    "homepage": "https://github.com/AmmoniteNetworks/CalendR",
     "type": "library",
     "license": "MIT",
     "authors": [{
